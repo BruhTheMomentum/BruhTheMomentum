@@ -10,4 +10,4 @@ if you want to see my work, feel free to check these links:
 
 what im currently doing?
 
-_im currently building a Reflexion Agent that can create a travel itinerary based on user preferences using LangGraph and Python via Human-in-the-Loop interactions and tools calls._
+_im currently building a [Reflexion Agent](https://github.com/BruhTheMomentum/travel-agent) that can create a travel itinerary based on user preferences using LangGraph and Python via Human-in-the-Loop interactions and tools calls._
